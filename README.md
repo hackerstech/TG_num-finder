@@ -34,3 +34,35 @@ Note : Make sure you disable Two factor authentication in your telegram account
 
 ```
 
+
+
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-ForHelp-green?style=for-the-badge&logo=instagram)](https://instagram.com/alien_ghost_2025?utm_medium=copy_link)
+
+[![TL](https://img.shields.io/badge/TELEGRAM-CHANNEL-brightgreen?style=for-the-badge&logo=telegram)](https://t.me/+p4fAwzyvtn81ZjI1)
+
+
+### demo on youtube
+link [watch here](https://www.youtube.com/watch?v=byN17DiOr0I)
+
+
+
+---
+
+
+
+
+### about 
+
+---
+
+|share 
+
+
+
+|follow| for |more |
+
+
+
+---
+
