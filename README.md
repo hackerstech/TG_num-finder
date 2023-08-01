@@ -6,9 +6,7 @@ Find the phone number of any telegram with username
 # Requirements
 -  pip3 install telethon
 -  python3 should be there
--  
 
-## Happy Hacking :
 # Installation :
 
 ```
