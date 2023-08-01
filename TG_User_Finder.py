@@ -30,19 +30,16 @@ def list_checker():
                 f.write(ress+":"+num)
                 f.close()
                 print ("Number: {} <{}>".format(num, "OK:)"))
-                break
+                exit()
             else:
-                print ("got number ",num)
-                f = open("founded.txt", "a")
-                f.write(usr+":"+num)
-                f.close()
+                pass
 
         except:
-            print ("Null ex")
+            pass
 
 if __name__ == '__main__':
     phone = '917742114180'
-    client = TelegramClient(phone,int(open("api_id.txt","r").read()),str(open("api_hash.txt","r").read()))
+    client = TelegramClient(phone,int(open("api_id.txt","r").read().strip(" \n ")),str(open("api_hash.txt","r").read().strip(" \n ")))
     client.connect()
     if not client.is_user_authorized():
         client.send_code_request(phone)
