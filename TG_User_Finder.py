@@ -38,7 +38,7 @@ def list_checker():
             pass
 
 if __name__ == '__main__':
-    phone = '917742114180'
+    phone = input(" enter num:")
     client = TelegramClient(phone,int(open("api_id.txt","r").read().strip(" \n ")),str(open("api_hash.txt","r").read().strip(" \n ")))
     client.connect()
     if not client.is_user_authorized():
